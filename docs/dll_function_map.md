@@ -1,3 +1,1 @@
-| 函式名 | 位址 | 功能描述 |
-|---|---|---|
-| FUN_10001000 | 0x10001000 | 初始化封包區 |
+// Placeholder for dll_function_map.md
