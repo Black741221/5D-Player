@@ -1,0 +1,15 @@
+{
+  "sheZhi2V0.exe": [
+    { "name": "FUN_00401000", "addr": "0x00401000", "desc": "初始化主程式" },
+    { "name": "FUN_00401234", "addr": "0x00401234", "desc": "參數轉換處理" }
+  ],
+  "ET199_32.dll": [
+    { "name": "FUN_10001000", "addr": "0x10001000", "desc": "初始化封包區" },
+    { "name": "FUN_100011F0", "addr": "0x100011F0", "desc": "封包邏輯處理" },
+    { "name": "FUN_100012B0", "addr": "0x100012B0", "desc": "尾段封裝與校驗" },
+    { "name": "ETWriteFile", "addr": "external", "desc": "封包發送串口" }
+  ],
+  "swjJiami.exe": [
+    { "name": "encode_data_block", "addr": "0x00403000", "desc": "TXT轉DATA區塊" }
+  ]
+}
