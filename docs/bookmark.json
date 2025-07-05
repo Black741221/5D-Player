@@ -1,7 +1,0 @@
-{
-  "current_line": 13800,
-  "next_upload_in": 0,
-  "lines_remaining": 6900,
-  "last_update": "2025-07-05 06:24:11",
-  "notes": "已完成分析至13800行，包含部分CTagManager::ReadSize函式拆解。"
-}
