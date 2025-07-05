@@ -1,0 +1,21 @@
+{
+  "current_file": "sheZhi2.exe.c",
+  "last_parsed_line": 20100,
+  "parsed_segments": [
+    {
+      "start_line": 1,
+      "end_line": 5000,
+      "description": "初步拆解與功能說明"
+    },
+    {
+      "start_line": 5001,
+      "end_line": 10000,
+      "description": "進一步細節分析與函式標註"
+    },
+    {
+      "start_line": 10001,
+      "end_line": 20100,
+      "description": "深入邏輯拆解與記憶體管理"
+    }
+  ]
+}
