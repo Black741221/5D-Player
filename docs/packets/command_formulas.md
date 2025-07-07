@@ -13,3 +13,33 @@ Hex 封包：
 ```
 FA 05 01 00 00 20 00 00 00 00 00 A0
 ```
+
+---
+
+### 🔹 原廠封包：全升（UP）
+
+Hex Write：
+```
+80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
+80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
+80 80 80 80 80 80 80 80 80 80 80 80 80 80 80 80
+80 80 00 00 00 5e
+```
+
+📌 特徵：只亮 **1 號燈**、馬達動作可控，為原廠「全升」指令封包
+
+---
+
+### 🔹 原廠封包：全降（DOWN）
+
+Hex Write：
+```
+bf bf bf bf bf bf bf bf bf bf bf bf bf bf bf bf
+bf bf bf bf bf bf bf bf bf bf bf bf bf bf bf bf
+bf bf bf bf bf bf bf bf bf bf bf bf bf bf bf bf
+bf bf 3f 3f 3f 3f 3f 3f 3f 3f 3f 3f 00 00 00 2e
+```
+
+📌 特徵：亮燈 **1 / 3 / 4 / 5 / 6 / 7 號**，為原廠「全降」指令封包
+
+---
